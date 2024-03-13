@@ -1,5 +1,9 @@
 **Update: Use this [colab notebook](https://colab.research.google.com/drive/1s0wEW3IvUfrUZOcsXMo_GqTwISt63R8F?usp=sharing) to reproduce our results**
 
+If you use this code or part of it, please cite the original reference:
+
+> Minici, M., Cinus, F., Monti, C., Bonchi, F., & Manco, G. (2022, October). Cascade-based echo chamber detection. In Proceedings of the 31st ACM International Conference on Information & Knowledge Management (pp. 1511-1520). doi: https://doi.org/10.1145/3511808.3557253
+
 ---
 
 Before running any experiment, we suggest you install the provided conda environment.
